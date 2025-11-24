@@ -1,0 +1,3 @@
+- My first major milestone in studying about Machine Learning. In this project, I aim to combine the EDA steps I had learned from the Titanic survival prediction project, in combination with the visualization and statistical analysis done in the Iris dataset classification to create one big ML first checkpoint project.
+- I followed Shubham Kadariya's guide on Medium, the link to the guide is here: https://medium.com/data-and-beyond/i-built-a-machine-learning-model-to-predict-california-house-prices-heres-what-i-discovered-46c4c237f11a
+- The dataset that I used for this project is from Kaggle, and is listed here: https://www.kaggle.com/datasets/camnugent/california-housing-prices
